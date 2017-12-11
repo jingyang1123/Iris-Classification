@@ -1,7 +1,4 @@
 // dco/c++ version: v3.1.4
-// git hash: c468debb205a189bde227a6e5ca7a9d00c508503
-// branch: master
-
 // ================================================================ //
 // *** This is a generated file from above given source version *** //
 // ================================================================ //
